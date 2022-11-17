@@ -51,7 +51,7 @@ gem "bootsnap", require: false
 # Use Sass to process CSS
 # gem "sassc-rails"
 
-
+gem 'faker'
 
 
 group :development, :test do
